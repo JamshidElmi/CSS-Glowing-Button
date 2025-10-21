@@ -2,13 +2,17 @@
 
 A small collection of lightweight CSS styles for creating modern, customizable glowing buttons. No JavaScript required — just HTML + CSS. Ideal for landing pages, CTAs, and UI components that need a subtle neon-like glow.
 
+![Button preview](https://i3.ytimg.com/vi/b_8fHNIHFk4/maxresdefault.jpg)
+
 Features
 - Pure CSS (no JS).
 - Easy to drop-in and customize with CSS variables.
 - Hover/focus animations and accessible reduced-motion support.
 - Small, framework-agnostic, works with button and anchor elements.
 
-Demo
+## Live demo
+Try the [live demo](https://i3.ytimg.com/vi/b_8fHNIHFk4/maxresdefault.jpg)
+
 Add this HTML to preview a button:
 
 ```html
